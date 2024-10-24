@@ -18,3 +18,6 @@ This is my **personal portfolio website** built with [Next.js](https://nextjs.or
 - **Vercel**: Deployment platform for fast and easy hosting.
 
 Can run the application in VS Code or a terminal and it will be available at `http://localhost:3000`.
+
+👤 Author
+Ahmad Habibie Arrouf
