@@ -22,7 +22,7 @@ const projects = [
   {
     name: 'Flappy Bird',
     description:
-      'A to-do list is a tool for planning a list of tasks or activities that you need to complete within a specific timeframe.',
+      'Guide the little bird through endless pipes! Tap to fly, avoid obstacles, and challenge your friends to beat your high score. Simple to play, hard to master—how far can you go?',
     image: '/bird.jpg',
   },
 ];
