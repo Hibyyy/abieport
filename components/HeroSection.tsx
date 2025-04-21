@@ -23,7 +23,7 @@ const HeroSection = () => {
           </h1>
           <p className='text-lg mt-4 mb-6 md:text-2xl'>
             I&#39;m a curious person and always learning about{' '}
-            <span className='font-semibold text-teal-600'>Programming </span>
+            <span className='font-semibold text-teal-600'>Programming & Data Science </span>
           </p>
         </div>
       </div>
