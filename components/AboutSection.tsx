@@ -7,7 +7,7 @@ const skills = [
   { skill: 'Excel' },
   { skill: 'Python' },
   { skill: 'Next.js' },
-  { skill: 'Tailwind CSS' },
+  { skill: 'phpMyAdmin' },
   { skill: 'Git' },
   { skill: 'GitHub' },
 ];
